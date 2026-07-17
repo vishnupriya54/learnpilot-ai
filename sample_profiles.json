@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Rahul",
+        "background": "B.Tech CSE",
+        "goal": "Generative AI Engineer",
+        "known_skills": [
+            "Python Basics"
+        ]
+    },
+    {
+        "name": "Priya",
+        "background": "ECE",
+        "goal": "Data Scientist",
+        "known_skills": [
+            "C Programming"
+        ]
+    },
+    {
+        "name": "Arjun",
+        "background": "Mechanical Engineering",
+        "goal": "Software Developer",
+        "known_skills": [
+            "Excel"
+        ]
+    },
+    {
+        "name": "Sneha",
+        "background": "BCA",
+        "goal": "Generative AI Engineer",
+        "known_skills": [
+            "Python Basics",
+            "Machine Learning"
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Python Basics",
+        "difficulty": "Beginner",
+        "duration": "3 Weeks",
+        "prerequisites": [],
+        "description": "Learn Python syntax, variables, loops, functions, file handling, and problem-solving fundamentals."
+    },
+    {
+        "name": "Data Structures",
+        "difficulty": "Beginner",
+        "duration": "4 Weeks",
+        "prerequisites": ["Python Basics"],
+        "description": "Learn arrays, linked lists, stacks, queues, trees, graphs, and algorithmic thinking."
+    },
+    {
+        "name": "Object Oriented Programming",
+        "difficulty": "Intermediate",
+        "duration": "3 Weeks",
+        "prerequisites": ["Python Basics"],
+        "description": "Understand classes, objects, inheritance, polymorphism, abstraction, and encapsulation."
+    },
+    {
+        "name": "SQL Basics",
+        "difficulty": "Beginner",
+        "duration": "2 Weeks",
+        "prerequisites": [],
+        "description": "Learn relational databases, SQL queries, joins, indexing, and database design."
+    },
+    {
+        "name": "Machine Learning",
+        "difficulty": "Intermediate",
+        "duration": "6 Weeks",
+        "prerequisites": ["Python Basics", "Data Structures"],
+        "description": "Learn supervised learning, unsupervised learning, regression, classification, and model evaluation."
+    },
+    {
+        "name": "Deep Learning",
+        "difficulty": "Advanced",
+        "duration": "5 Weeks",
+        "prerequisites": ["Machine Learning"],
+        "description": "Learn neural networks, CNNs, RNNs, transformers, and modern deep learning frameworks."
+    },
+    {
+        "name": "Prompt Engineering",
+        "difficulty": "Beginner",
+        "duration": "2 Weeks",
+        "prerequisites": [],
+        "description": "Learn how to design effective prompts for LLMs to improve output quality and reliability."
+    },
+    {
+        "name": "LangChain",
+        "difficulty": "Intermediate",
+        "duration": "2 Weeks",
+        "prerequisites": ["Prompt Engineering"],
+        "description": "Build AI applications using LangChain with tools, memory, chains, and agents."
+    },
+    {
+        "name": "Vector Databases",
+        "difficulty": "Intermediate",
+        "duration": "2 Weeks",
+        "prerequisites": ["LangChain"],
+        "description": "Learn embeddings, semantic search, Pinecone, ChromaDB, and vector similarity search."
+    },
+    {
+        "name": "RAG Systems",
+        "difficulty": "Advanced",
+        "duration": "4 Weeks",
+        "prerequisites": ["LangChain", "Deep Learning"],
+        "description": "Build Retrieval-Augmented Generation systems using LLMs and vector databases."
+    },
+    {
+        "name": "Generative AI",
+        "difficulty": "Advanced",
+        "duration": "6 Weeks",
+        "prerequisites": ["Deep Learning"],
+        "description": "Learn LLMs, diffusion models, fine-tuning, AI agents, and real-world Generative AI applications."
+    }
+]
